@@ -11,12 +11,15 @@ Para criação do Dashboard foi fornecido o acesso a um Banco de Dados
 ## Ferramentas utilizadas ##
 SQL e Metabase
 
+
+## Gráficos e códigos utilizados ##
+Código gender.sql: [consulta_gender.sql](consulta_gender.sql)
+
+
+
+
 ## Formato Final ##
+<img width="759" alt="Dashboard - Metabase" src="https://github.com/user-attachments/assets/6d27517a-5050-4dcc-9c04-0bb9be47e393" />
 
+## Gráficos e códigos utilizados ##
 
-
-
-## Funcionamento do Dashboard ##
-Os filtros utilizados são aplicados a todas as páginas do dashboard.
-
-![Gif - Dashboard - Painel Gerencial](https://github.com/user-attachments/assets/548e263c-b2c7-4883-a546-88d6555cb643)
