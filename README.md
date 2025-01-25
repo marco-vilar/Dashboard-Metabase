@@ -13,8 +13,23 @@ SQL e Metabase
 
 
 ## Gráficos e códigos utilizados ##
-Código gender.sql: [consulta_gender.sql](consulta_gender.sql)
+Código Gênero: [01_consulta_gender.sql](01_consulta_gender.sql)
 
+<img width="150" alt="Consulta_gender" src="https://github.com/user-attachments/assets/31c6e7f0-7d0d-4aed-9191-25f6604452ca" />
+
+Código Idade Média: [02_consulta_age.sql](02_consulta_age.sql)
+
+<img width="150" alt="Consulta_idade" src="https://github.com/user-attachments/assets/4ddccd25-e147-4319-99a4-dfc5d5c4bd9c" />
+
+Código Formação: [03_consulta_formação.sql](03_consulta_formação.sql)
+
+<img width="924" alt="Quantidade x formação" src="https://github.com/user-attachments/assets/ce0f6e67-95a2-4a70-9fa4-58e0c77100fc" />
+
+Código Média de visualizações: [04_media_watched.sql](04_media_watched.sql)
+
+<img width="126" alt="media de vistos" src="https://github.com/user-attachments/assets/c5a5c6c0-18a7-44f8-9d1b-4f795ecee0d9" />
+
+Código de Consulta de Ligações: [05_consulta ligacoes.sql](05_consulta watched.sql)
 
 
 
