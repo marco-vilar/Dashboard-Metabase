@@ -37,5 +37,3 @@ Código de Consulta de Ligações: [05_consulta_ligacoes.sql](05_consulta_ligaco
 ## Formato Final ##
 <img width="759" alt="Dashboard - Metabase" src="https://github.com/user-attachments/assets/6d27517a-5050-4dcc-9c04-0bb9be47e393" />
 
-## Gráficos e códigos utilizados ##
-
